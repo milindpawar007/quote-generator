@@ -1,8 +1,7 @@
 `Quote Generator Project`
 
 
-# View Project
-[Live Demo](https://milindpawar007.github.io/quote-generator/index.html) of this project for peer review.
+# View Project :[Live Demo](https://milindpawar007.github.io/quote-generator/index.html) of this project for peer review.
 =======================================
 
 This is an app that randomly generates quotes on clicking 
@@ -28,7 +27,7 @@ Button.
 - vanilla JS
 - Git / Github
 
-roject Requirements
+Project Requirements
 ====================
 
 ## Create an array of JS objects to hold the data for the quotes.
